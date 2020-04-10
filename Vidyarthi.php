@@ -1,8 +1,8 @@
 <html>
 <head><title>Percentage Calculator of Marks of Students</title></head>
-<body background="lpu.jpg">
-<form id="form1" name="form1" method="post" action="Insert.php">
-  <table width="294" heigth="172" border="1" cellpadding="10" cellspacing="10" align="center">
+<body background="image.jpg">
+<form id="form1" name="form1" method="post" action="data_insertion.php">
+  <table width="300" heigth="190" border="2" cellpadding="15" cellspacing="15" align="center">
   	<tr>
   		<td width="123">Registration Number.</td>
   		<td width="155"><input type="text" name="reg" id="reg" /></td>
