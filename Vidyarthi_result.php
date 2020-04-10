@@ -10,7 +10,7 @@ $result=mysqli_query($x,$sqlquery);
 	<head>
 		<title> Result of Student </title>
 	</head>
-<body background= "lpu.jpg">
+<body background= "image.jpg">
 
 	<table align="center" border="2px" style="width:700px; line-height:50px;">
 		<tr>
